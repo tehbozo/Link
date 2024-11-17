@@ -9,13 +9,13 @@
 ##########################
 - - - - - - - - - - - -->
 
-<!-- Replace the url and upload the file (e.g. Github) -->
+<!-- Replace the url and upload the file (e.g. Github)  <link>https://discord.gg/Wjr9ARV6Bk</link> -->
 <!-- Open the file and click raw button (at right side) -->
 <!-- Copy and paste the url into windows.xml -->
 
 <Linarian>
 	<entry>
-		<link>https://discord.gg/Wjr9ARV6Bk</link> 
+		<link>https://cdn.discordapp.com/attachments/1307735616070615060/1307735855997128775/Naruto_-_Sadness_and_Sorrow_Piano_Version.mp3?ex=673b636c&is=673a11ec&hm=e46950ae0b36a3dec0e1163a1348dc417b3903a5d273b50c30485400ff1244a5&</link> 
 		<!-- leave the rest unchanged -->
 		<date>2024-01-01 12:00:00Z</date>
 		<title>Panel Polskiego serwera</title>
